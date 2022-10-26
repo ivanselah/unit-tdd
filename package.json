@@ -4,7 +4,7 @@
   "description": "- 자바스크립트 언어 환경",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/ivanselah/unit-tdd#readme",
   "devDependencies": {
     "jest": "^29.2.2"
+  },
+  "dependencies": {
+    "@types/jest": "^29.2.0"
   }
 }
