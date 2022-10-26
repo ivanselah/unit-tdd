@@ -1,0 +1,23 @@
+{
+  "name": "unit-tdd",
+  "version": "1.0.0",
+  "description": "- 자바스크립트 언어 환경",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanselah/unit-tdd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanselah/unit-tdd/issues"
+  },
+  "homepage": "https://github.com/ivanselah/unit-tdd#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
