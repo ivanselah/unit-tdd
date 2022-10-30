@@ -7,7 +7,7 @@ describe('stack', () => {
   });
 
   it('initialize stack', () => {
-    expect(stack.initStackSize).toBe(1);
+    expect(stack.initStackSize).toBe(0);
   });
 
   describe('size', () => {
