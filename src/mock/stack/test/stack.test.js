@@ -1,5 +1,7 @@
 const Stack = require('../stack');
 
+describe('pull-request test commit', () => {});
+
 describe('stack', () => {
   let stack;
   beforeEach(() => {
