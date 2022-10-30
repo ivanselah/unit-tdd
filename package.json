@@ -4,7 +4,7 @@
   "description": "- 자바스크립트 언어 환경",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
