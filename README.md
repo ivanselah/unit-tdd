@@ -1,5 +1,10 @@
+#### Github Actions
+
+- Master branch ci 설정
+  - master push
+  - master pull request
+
 #### 유닛테스트 및 TDD 란?
-#### Github Actions 설정 👍
 
 - 자바스크립트 언어 환경
 
